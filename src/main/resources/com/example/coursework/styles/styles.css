@@ -1,0 +1,17 @@
+.root-pane-style {
+    -fx-background-color: linear-gradient(to top, #000000, #a19595);
+}
+
+.btn-custom{
+    -fx-border-color: #ff9797;
+    -fx-background-radius: 7px;
+    -fx-border-radius: 5px;
+    -fx-background-color: #efefef;
+    -fx-text-fill: #000000;
+    -fx-font-weight: bold;
+}
+
+.btn-custom:hover{
+    -fx-background-color: #b76161;
+}
+
